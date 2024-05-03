@@ -1,5 +1,7 @@
 # Food Hut - A Dynamic Food Ordering Platform
 
+### ==> LIVE LINK - https://foodyhut.netlify.app/
+
 I'm thrilled to unveil my first React App, "Food Hut"! 🎉 It's like a clone but more than a Swiggy clone; it's a dynamic food ordering platform where I explored the depths of development. 💻 This project was a true learning journey for me as a newcomer!
 
 ## 🛠️ Tech Stack:
