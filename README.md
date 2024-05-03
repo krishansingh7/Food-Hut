@@ -1,6 +1,6 @@
-# 🚀 Crispy Bytes - A Dynamic Food Ordering Platform
+# Food Hut - A Dynamic Food Ordering Platform
 
-I'm thrilled to unveil my first React App, "Crispy Bytes"! 🎉 It's more than a Swiggy clone; it's a dynamic food ordering platform where I explored the depths of development. 💻 This project was a true learning journey for me as a newcomer!
+I'm thrilled to unveil my first React App, "Food Hut"! 🎉 It's like a clone but more than a Swiggy clone; it's a dynamic food ordering platform where I explored the depths of development. 💻 This project was a true learning journey for me as a newcomer!
 
 ## 🛠️ Tech Stack:
 - ✅ React JS: Crafting a user-friendly interface and dynamic components.
@@ -8,7 +8,6 @@ I'm thrilled to unveil my first React App, "Crispy Bytes"! 🎉 It's more than a
 - ✅ Parcel: Bundling for production readiness.
 - ✅ Real-World Data Integration: Leveraging Swiggy API for live restaurant data.
 - ✅ Redux-toolkit: Powering the shopping cart functionality.
-- ✅ Auth0: Securing user authentication.
 
 ## 🔑 Key Features:
 - ✅ Easy restaurant search & top restaurant filtering(4.0+).
@@ -43,6 +42,6 @@ From React.createElement to Redux-toolkit, this journey taught me invaluable les
 - 🔹 Context Provider and Context Consumer
 - 🔹 Redux-Toolkit
 
-I welcome any suggestions or features to make "Crispy Bytes" even better! Feel free to share your thoughts.
+I welcome any suggestions or features to make "Food Hut" even better! Feel free to share your thoughts.
 
 #ReactLearning #NamasteReact #Gratitude #WebDev #ReactJS #TechStack #AppDevelopment
